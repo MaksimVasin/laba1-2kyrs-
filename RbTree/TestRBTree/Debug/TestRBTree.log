@@ -1,0 +1,18 @@
+﻿  pch.cpp
+  TestRBTree.cpp
+C:\Users\Сергей\Desktop\YROKI3\АИСД\RbTree\Drevo\RbTree.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Сергей\Desktop\YROKI3\АИСД\RbTree\Drevo\RbTree.cpp(414,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Сергей\Desktop\YROKI3\АИСД\RbTree\Drevo\RbTree.cpp(407): message : во время компиляции функции-члена класс шаблон "Tkey *RBTree<Tkey,char>::get_keys(void)"
+          with
+          [
+              Tkey=float
+          ]
+C:\Users\Сергей\Desktop\YROKI3\АИСД\RbTree\TestRBTree\TestRBTree.cpp(19): message : выполняется компиляция ссылки на экземпляр шаблон функции "Tkey *RBTree<Tkey,char>::get_keys(void)"
+          with
+          [
+              Tkey=float
+          ]
+C:\Users\Сергей\Desktop\YROKI3\АИСД\RbTree\TestRBTree\TestRBTree.cpp(14): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "RBTree<float,char>"
+C:\Users\Сергей\Desktop\YROKI3\АИСД\RbTree\Drevo\RbTree.h(76): warning C4715: RBTree<float,char>::findNode: значение возвращается не при всех путях выполнения
+     Создается библиотека C:\Users\Сергей\Desktop\YROKI3\АИСД\RbTree\Drevo\Debug\TestRBTree.lib и объект C:\Users\Сергей\Desktop\YROKI3\АИСД\RbTree\Drevo\Debug\TestRBTree.exp
+  TestRBTree.vcxproj -> C:\Users\Сергей\Desktop\YROKI3\АИСД\RbTree\Drevo\Debug\TestRBTree.dll

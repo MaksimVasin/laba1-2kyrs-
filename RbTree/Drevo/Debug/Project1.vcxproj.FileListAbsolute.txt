@@ -1,0 +1,4 @@
+C:\Users\Сергей\Desktop\YROKI3\АИСД\laba1\Drevo\Debug\RBTree.exe
+C:\Users\Сергей\Desktop\YROKI3\АИСД\laba1\Drevo\Debug\RBTree.pdb
+C:\Users\Сергей\Desktop\YROKI3\АИСД\RbTree\Drevo\Debug\RBTree.exe
+C:\Users\Сергей\Desktop\YROKI3\АИСД\RbTree\Drevo\Debug\RBTree.pdb
