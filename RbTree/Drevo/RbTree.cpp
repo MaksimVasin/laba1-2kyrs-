@@ -1,8 +1,8 @@
 #include "RbTree.h";
 #include <Windows.h>
 #include <iostream>
-#include <stack>
-
+//#include <stack>
+#include "stack.h" // NEW
 
 using namespace std;
 ////////////////////////////////////////////////////////////////////////////////////////////////////// TURNS
@@ -409,7 +409,7 @@ Tkey* RBTree<Tkey, Tdata>::get_keys()
 	{
 		Tkey* Array = new Tkey[get_sizeTree()];
 		Node* cur = root;
-		stack<Node*> Stack;
+		Stack<Node*> Stack;
 		Stack.push(cur);
 		for (int i = 0; i < get_sizeTree(); i++)
 		{
@@ -433,7 +433,7 @@ Tdata* RBTree<Tkey, Tdata>::get_values()
 	{
 		Tdata* Array = new Tdata[get_sizeTree()];
 		Node* cur = root;
-		stack<Node*> Stack;
+		Stack<Node*> Stack;
 		Stack.push(root);
 		for (int i = 0; i < get_sizeTree(); i++)
 		{

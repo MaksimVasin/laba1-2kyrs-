@@ -13,6 +13,6 @@ C:\Users\Сергей\Desktop\YROKI3\АИСД\RbTree\TestRBTree\TestRBTree.cpp(1
               Tkey=float
           ]
 C:\Users\Сергей\Desktop\YROKI3\АИСД\RbTree\TestRBTree\TestRBTree.cpp(14): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "RBTree<float,char>"
-C:\Users\Сергей\Desktop\YROKI3\АИСД\RbTree\Drevo\RbTree.h(76): warning C4715: RBTree<float,char>::findNode: значение возвращается не при всех путях выполнения
+C:\Users\Сергей\Desktop\YROKI3\АИСД\RbTree\Drevo\RbTree.h(75): warning C4715: RBTree<float,char>::findNode: значение возвращается не при всех путях выполнения
      Создается библиотека C:\Users\Сергей\Desktop\YROKI3\АИСД\RbTree\Drevo\Debug\TestRBTree.lib и объект C:\Users\Сергей\Desktop\YROKI3\АИСД\RbTree\Drevo\Debug\TestRBTree.exp
   TestRBTree.vcxproj -> C:\Users\Сергей\Desktop\YROKI3\АИСД\RbTree\Drevo\Debug\TestRBTree.dll

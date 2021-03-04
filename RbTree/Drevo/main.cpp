@@ -1,5 +1,7 @@
 #include <iostream>
 #include "RbTree.cpp"
+#include "stack.h"
+
 using namespace std;
 
 int main()

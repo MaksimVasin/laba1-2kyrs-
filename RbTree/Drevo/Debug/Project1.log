@@ -1,27 +1,27 @@
 ﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Project1.vcxproj).  Это может привести к ошибкам очистки и перестроения.
   main.cpp
 C:\Users\Сергей\Desktop\YROKI3\АИСД\RbTree\Drevo\RbTree.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
-C:\Users\Сергей\Desktop\YROKI3\АИСД\RbTree\Drevo\main.cpp(35,20): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Сергей\Desktop\YROKI3\АИСД\RbTree\Drevo\main.cpp(42,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Сергей\Desktop\YROKI3\АИСД\RbTree\Drevo\main.cpp(37,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Сергей\Desktop\YROKI3\АИСД\RbTree\Drevo\main.cpp(44,20): warning C4018: <: несоответствие типов со знаком и без знака
 C:\Users\Сергей\Desktop\YROKI3\АИСД\RbTree\Drevo\RbTree.cpp(414,21): warning C4018: <: несоответствие типов со знаком и без знака
 C:\Users\Сергей\Desktop\YROKI3\АИСД\RbTree\Drevo\RbTree.cpp(407): message : во время компиляции функции-члена класс шаблон "Tkey *RBTree<Tkey,char>::get_keys(void)"
           with
           [
               Tkey=float
           ]
-C:\Users\Сергей\Desktop\YROKI3\АИСД\RbTree\Drevo\main.cpp(33): message : выполняется компиляция ссылки на экземпляр шаблон функции "Tkey *RBTree<Tkey,char>::get_keys(void)"
+C:\Users\Сергей\Desktop\YROKI3\АИСД\RbTree\Drevo\main.cpp(35): message : выполняется компиляция ссылки на экземпляр шаблон функции "Tkey *RBTree<Tkey,char>::get_keys(void)"
           with
           [
               Tkey=float
           ]
-C:\Users\Сергей\Desktop\YROKI3\АИСД\RbTree\Drevo\main.cpp(7): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "RBTree<float,char>"
+C:\Users\Сергей\Desktop\YROKI3\АИСД\RbTree\Drevo\main.cpp(9): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "RBTree<float,char>"
 C:\Users\Сергей\Desktop\YROKI3\АИСД\RbTree\Drevo\RbTree.cpp(438,21): warning C4018: <: несоответствие типов со знаком и без знака
 C:\Users\Сергей\Desktop\YROKI3\АИСД\RbTree\Drevo\RbTree.cpp(431): message : во время компиляции функции-члена класс шаблон "Tdata *RBTree<float,Tdata>::get_values(void)"
           with
           [
               Tdata=char
           ]
-C:\Users\Сергей\Desktop\YROKI3\АИСД\RbTree\Drevo\main.cpp(41): message : выполняется компиляция ссылки на экземпляр шаблон функции "Tdata *RBTree<float,Tdata>::get_values(void)"
+C:\Users\Сергей\Desktop\YROKI3\АИСД\RbTree\Drevo\main.cpp(43): message : выполняется компиляция ссылки на экземпляр шаблон функции "Tdata *RBTree<float,Tdata>::get_values(void)"
           with
           [
               Tdata=char
@@ -29,5 +29,5 @@ C:\Users\Сергей\Desktop\YROKI3\АИСД\RbTree\Drevo\main.cpp(41): message
   RbTree.cpp
 C:\Users\Сергей\Desktop\YROKI3\АИСД\RbTree\Drevo\RbTree.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
   Создание кода...
-C:\Users\Сергей\Desktop\YROKI3\АИСД\RbTree\Drevo\RbTree.h(76): warning C4715: RBTree<float,char>::findNode: значение возвращается не при всех путях выполнения
+C:\Users\Сергей\Desktop\YROKI3\АИСД\RbTree\Drevo\RbTree.h(75): warning C4715: RBTree<float,char>::findNode: значение возвращается не при всех путях выполнения
   Project1.vcxproj -> C:\Users\Сергей\Desktop\YROKI3\АИСД\RbTree\Drevo\Debug\RBTree.exe
